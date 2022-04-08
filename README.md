@@ -54,6 +54,7 @@ ECNU 计软院合合拆拆，各种群层出不穷，但时间一长便可能失
 | [Jeff Xie](https://github.com/jeffmeoi) | 2018 SEI | 微信支付后端研发 | QQ：2739967118 |  |
 | [zny](https://github.com/vexilligera) | 2016 DaSE | VP, Global Hiring Manager @ Xuwentao River Trading. We are hiring! | | |
 | [Quentin Lee](https://github.com/otaku-47) | 2016 SEI | JM Student @ THU / Research Intern @ THUNLP | qingquanl97@outlook.com | |
+| [白叶叶](https://github.com/ShuqingYe1997) | 2016 SE | XRT Dev List / OCI SDE / 拒绝了咕果的女人 | sophie.ye97@gmail.com | |
 | [虚位以待](https://ecnucse.github.io/ECNU_ITers/join.html) |  |  |  |  |
 
 
